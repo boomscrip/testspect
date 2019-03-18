@@ -1,0 +1,189 @@
+@font-face {
+ font-family: Rubik-Light;
+	src: url(font/Rubik-Light.ttf);
+}
+
+@font-face {
+	 font-family: Rubik-Medium;
+	src: url(font/Rubik-Medium.ttf);
+}
+
+#container {
+	position:absolute;
+	width:100%;
+	height:4000px;
+
+}
+
+section{
+	position: fixed;
+	width: 1920px;
+	height: 1024px;
+	background-image: url(image/fon.png);
+
+}
+
+.box__title {
+	position: absolute;
+	border: 2px solid green;
+	left: 575px;
+	right: 611px;
+	top: 69px;
+	width: 734px;
+	height: 134px;
+
+}
+
+.box__title h1 {
+	color: #000000;
+	font-size: 40px;
+	font-family: Rubik-Light;
+	font-weight: 300;
+	margin: 0;
+	text-align: left;
+}
+
+.box__title span {
+	font-family: Rubik-Medium;
+	font-weight: 500;
+
+}
+
+.box__frame {
+	position: absolute;
+
+	width: 370px;
+	height: 461px;
+	left: 1049px;
+	right: 501px;
+	top: 177px;
+	bottom: 386px;
+	background-image: url(image/frame.png);
+	border: 2px solid red;
+}
+
+.box__frame h3 {
+margin: 0;
+color: #000000;
+line-height: 26px;
+font-family: Rubik-Medium;
+font-size: 18px;
+font-weight: 500;
+
+}
+
+.box__frame p {
+	margin: 0;
+	color: #000000;
+	line-height: 26px;
+	font-size: 16px;
+	font-family: Rubik-Light;
+	font-weight: 300;
+
+}
+
+.frame__text_1 {
+	position: absolute;
+	width: 240px;
+	height: 93px;
+	left: 49px;
+	right: 81px;
+	top: 40px;
+	bottom: 328px;
+	border: 1px solid black;
+
+}
+
+.frame__text_2 {
+	position: absolute;
+	width: 273px;
+	height: 120px;
+	left: 49px;
+	right: 48px;
+	top: 166px;
+	bottom: 175px;
+	border: 1px solid black;
+
+}
+
+.frame__text_3 {
+	position: absolute;
+	width: 270px;
+	height: 94px;
+	left: 49px;
+	right: 51px;
+	top: 319px;
+	bottom: 48px;
+	border: 1px solid black;
+
+}
+
+.wrapp {
+	position: absolute;
+	width: 617px;
+	height: 892px;
+	left: 403px;
+	right: 900px;
+	top: 121px;
+	bottom: 11px;
+	border: 1px solid orange;
+
+}
+
+.box__clothes {
+	position: absolute;
+	background-image: url(image/clothes_fon.png);
+	width: 617px;
+	height: 892px;
+
+}
+
+.pen-small {
+	position: absolute;
+	width: 76px;
+	height: 66px;
+	left: 29px;
+	right: 512px;
+	top: 21px;
+	bottom: 805px;
+	border: 1px solid purple;
+
+}
+
+.girl {
+	position: absolute;
+	background-image: url(image/girl.png);
+	width: 361px;
+	height: 546px;
+	left: 855px;
+	right: 704px;
+	top: 435px;
+	bottom: 43px;
+	border: 1px solid blue;
+
+}
+
+.cat {
+	position: absolute;
+	background-image: url(image/cat.png);
+	width: 105px;
+	height: 163px;
+	left: 1263px;
+	right: 552px;
+	top: 606px;
+	bottom: 255px;
+	border: 1px solid blue;
+
+}
+
+.dog {
+	display: none;
+	position: absolute;
+	background-image: url(image/dog.png);
+	width: 298px;
+	height: 199px;
+	top: 743px;
+	bottom: 82px;
+	border: 1px solid blue;
+
+}
