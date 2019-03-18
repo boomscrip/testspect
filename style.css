@@ -25,7 +25,6 @@ section{
 
 .box__title {
 	position: absolute;
-	border: 2px solid green;
 	left: 575px;
 	right: 611px;
 	top: 69px;
@@ -59,7 +58,6 @@ section{
 	top: 177px;
 	bottom: 386px;
 	background-image: url(image/frame.png);
-	border: 2px solid red;
 }
 
 .box__frame h3 {
@@ -90,7 +88,6 @@ font-weight: 500;
 	right: 81px;
 	top: 40px;
 	bottom: 328px;
-	border: 1px solid black;
 
 }
 
@@ -102,7 +99,6 @@ font-weight: 500;
 	right: 48px;
 	top: 166px;
 	bottom: 175px;
-	border: 1px solid black;
 
 }
 
@@ -114,7 +110,6 @@ font-weight: 500;
 	right: 51px;
 	top: 319px;
 	bottom: 48px;
-	border: 1px solid black;
 
 }
 
@@ -126,7 +121,6 @@ font-weight: 500;
 	right: 900px;
 	top: 121px;
 	bottom: 11px;
-	border: 1px solid orange;
 
 }
 
@@ -146,7 +140,6 @@ font-weight: 500;
 	right: 512px;
 	top: 21px;
 	bottom: 805px;
-	border: 1px solid purple;
 
 }
 
@@ -159,7 +152,6 @@ font-weight: 500;
 	right: 704px;
 	top: 435px;
 	bottom: 43px;
-	border: 1px solid blue;
 
 }
 
@@ -172,7 +164,6 @@ font-weight: 500;
 	right: 552px;
 	top: 606px;
 	bottom: 255px;
-	border: 1px solid blue;
 
 }
 
@@ -184,6 +175,5 @@ font-weight: 500;
 	height: 199px;
 	top: 743px;
 	bottom: 82px;
-	border: 1px solid blue;
 
 }
